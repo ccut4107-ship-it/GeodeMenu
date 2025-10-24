@@ -1,6 +1,6 @@
 {
-	"geode": "4.4.0",
-	"version": "v1.8.02",
+	"geode": "4.9.0",
+	"version": "v3.0.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,13 +8,13 @@
 		"ios": "2.2074"
 	},
 	"early-load": true,
-	"id": "thesillydoggo.qolmod",
-	"name": "QOLMod",
-	"developer": "TheSillyDoggo",
-	"description": "The Best Free Geode Mod Menu!",
+	"id": "tooslow.qolmod",
+	"name": "Geode menu?",
+	"developer": "Too Slow!",
+	"description": "aaaaaaaaaaaaaaaaaaaaaa",
 	"links": {
-		"source": "https://github.com/TheSillyDoggo/GeodeMenu",
-		"community": "https://discord.gg/8CFcZNh4CW"
+		"source": "https://github.com/Cvolton/GMDprivateServer",
+		"community": "https://discord.gg/u5MvvGWe"
 	},
 	"resources": {
         "files": [
